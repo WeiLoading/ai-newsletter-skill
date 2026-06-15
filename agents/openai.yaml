@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Newsletter"
+  short_description: "生成经过时间与来源核验的每日 AI 行业、社区和开源日报"
+  default_prompt: "Use $ai-newsletter to generate today's complete AI newsletter."
